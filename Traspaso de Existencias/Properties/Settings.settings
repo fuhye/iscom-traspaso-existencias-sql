@@ -1,7 +1,33 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Traspaso_de_Existencias.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServerInstance" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UsuarioComercial" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SUPERVISOR</Value>
+    </Setting>
+    <Setting Name="UsuarioContabilidad" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SUPERVISOR</Value>
+    </Setting>
+    <Setting Name="PasswordComercial" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PasswordContabilidad" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="HasContabilidad" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SDKDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Compac\COMERCIAL</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>
